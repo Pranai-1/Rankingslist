@@ -1,4 +1,4 @@
-package com.rankings.pranai.rankingslist.ranking;
+package com.rankings.pranai.rankingslist.ranking.test;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

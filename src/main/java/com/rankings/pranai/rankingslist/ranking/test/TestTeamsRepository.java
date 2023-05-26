@@ -1,4 +1,4 @@
-package com.rankings.pranai.rankingslist.ranking;
+package com.rankings.pranai.rankingslist.ranking.test;
 
 import java.util.List;
 
